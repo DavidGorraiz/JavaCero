@@ -1,0 +1,5 @@
+Codigos desde Consola de Comandos Para Empaquetado de aplicaciones en Java
+
+jar cvfm Sistema.jar manifest.mf Bienvenida.class Licencia.class Principal.class Imagenes/coca-cola.png Imagenes/icon.png Imagenes/logo-coca.png Imagenes/coca-cola-blanco.png
+
+java -jar Sistema.jar
